@@ -1,0 +1,6 @@
+V:\WEB DEV\ASP.NET CORE (Backend)\WebDev_BE_ASP.NETCORE\DNC3-Custom_Middleware_Class\obj\Debug\net6.0\DNC3-Custom_Middleware_Class.csproj.AssemblyReference.cache
+V:\WEB DEV\ASP.NET CORE (Backend)\WebDev_BE_ASP.NETCORE\DNC3-Custom_Middleware_Class\obj\Debug\net6.0\DNC3-Custom_Middleware_Class.GeneratedMSBuildEditorConfig.editorconfig
+V:\WEB DEV\ASP.NET CORE (Backend)\WebDev_BE_ASP.NETCORE\DNC3-Custom_Middleware_Class\obj\Debug\net6.0\DNC3-Custom_Middleware_Class.AssemblyInfoInputs.cache
+V:\WEB DEV\ASP.NET CORE (Backend)\WebDev_BE_ASP.NETCORE\DNC3-Custom_Middleware_Class\obj\Debug\net6.0\DNC3-Custom_Middleware_Class.AssemblyInfo.cs
+V:\WEB DEV\ASP.NET CORE (Backend)\WebDev_BE_ASP.NETCORE\DNC3-Custom_Middleware_Class\obj\Debug\net6.0\DNC3-Custom_Middleware_Class.csproj.CoreCompileInputs.cache
+V:\WEB DEV\ASP.NET CORE (Backend)\WebDev_BE_ASP.NETCORE\DNC3-Custom_Middleware_Class\obj\Debug\net6.0\DNC3-Custom_Middleware_Class.MvcApplicationPartsAssemblyInfo.cache
