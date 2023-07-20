@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "1WCXuY3+RfQUt+izyuK6KJYBxguXZsiIbDzS2HOf70A=",
+  "Source": "DNC6-Files",
+  "BasePath": "_content/DNC6-Files",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DNC6-Files\\wwwroot",
+      "Source": "DNC6-Files",
+      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC6-Files\\wwwroot\\",
+      "BasePath": "_content/DNC6-Files",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC6-Files\\wwwroot\\img.jpg",
+      "SourceId": "DNC6-Files",
+      "SourceType": "Discovered",
+      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC6-Files\\wwwroot\\",
+      "BasePath": "_content/DNC6-Files",
+      "RelativePath": "img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img.jpg"
+    }
+  ]
+}

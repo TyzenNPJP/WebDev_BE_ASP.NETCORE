@@ -1,0 +1,5 @@
+This is an example text.
+
+Test is successful.
+
+File is being read now.

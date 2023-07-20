@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC6-Files.props" />
+</Project>
