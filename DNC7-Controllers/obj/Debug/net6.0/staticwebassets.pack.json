@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC7-Controllers\\wwwroot\\test.txt",
+      "PackagePath": "staticwebassets\\test.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DNC7-Controllers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DNC7-Controllers.props",
+      "PackagePath": "build\\DNC7-Controllers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DNC7-Controllers.props",
+      "PackagePath": "buildMultiTargeting\\DNC7-Controllers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DNC7-Controllers.props",
+      "PackagePath": "buildTransitive\\DNC7-Controllers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC7-Controllers.props" />
+</Project>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "g9f2XZXTo7KfEcTFqHntx/McppQOvJC27CbC0KaInXE=",
+  "Source": "DNC7-Controllers",
+  "BasePath": "_content/DNC7-Controllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DNC7-Controllers\\wwwroot",
+      "Source": "DNC7-Controllers",
+      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC7-Controllers\\wwwroot\\",
+      "BasePath": "_content/DNC7-Controllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC7-Controllers\\wwwroot\\test.txt",
+      "SourceId": "DNC7-Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC7-Controllers\\wwwroot\\",
+      "BasePath": "_content/DNC7-Controllers",
+      "RelativePath": "test.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test.txt"
+    }
+  ]
+}
