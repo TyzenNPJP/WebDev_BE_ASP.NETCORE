@@ -1,0 +1,57 @@
+﻿<!--
+    This razor view page is searched by the controller first in the (Home folder with the name of the controller) (View page name of action method)
+    And then in the Shared folder with the name of the action method
+-->
+
+@{
+    // Function for even nums
+    int getTime100(int num1)
+    {
+        return num1 * 100;
+    }
+}
+
+
+<html>
+    <head>
+        <meta lang="en" />
+        <meta charset="utf-8" />
+        <title>Home Page</title>
+        <style>
+            .text-center {
+                text-align: center;
+            }
+            .same-block{
+                display: inline-block;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1 class="text-center">Home Page</h1>
+        <br />
+        <h3>Odd Numbers</h3>
+
+        <!-- Razor C# scripts inside a cshtml file-->
+        @{
+            int num = 1;
+            for (int i = 1; i <= 5; i++)
+            {
+                <p class="same-block">@num</p>
+                num += 2;
+                if (i != 5)
+                {
+                    <p class="same-block">,</p>
+                }
+            }
+        }
+        <br />
+        <h3>Times 100</h3>
+
+        <!-- Razor C# vars called inside a cshtml file-->
+        <p>@getTime100(25)</p>
+        <br />
+        <h3>Data transfer from controller to views</h3>
+        <p>@ViewData["data1"]</p>
+    </body>
+</html>

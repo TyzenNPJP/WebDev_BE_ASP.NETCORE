@@ -1,5 +1,5 @@
 /*
- *  ABOUT - HTTP REQUEST / HTTP RESPONSE
+ * ABOUT - HTTP REQUEST / HTTP RESPONSE
  * 
  * KEYWORDS - WebApplication, CreateBuilder(), Build(), Run(), HttpContext, async
  *              , Request, Method, GET, Path, Query, ContainsKey, WriteAsync("").

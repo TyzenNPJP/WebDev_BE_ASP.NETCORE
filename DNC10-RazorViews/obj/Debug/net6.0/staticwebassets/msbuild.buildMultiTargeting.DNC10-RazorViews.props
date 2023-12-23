@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC10-RazorViews.props" />
+</Project>
