@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DNC11-DependencyInjection/1.0.0": {
+        "dependencies": {
+          "IProducts": "1.0.0",
+          "Products": "1.0.0"
+        },
+        "runtime": {
+          "DNC11-DependencyInjection.dll": {}
+        }
+      },
+      "IProducts/1.0.0": {
+        "runtime": {
+          "IProducts.dll": {}
+        }
+      },
+      "Products/1.0.0": {
+        "dependencies": {
+          "IProducts": "1.0.0"
+        },
+        "runtime": {
+          "Products.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNC11-DependencyInjection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IProducts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Products/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿@*Receiving data*@
+@model List<string>
+
+@*Dependency Injection directly to views*@
+@inject IProductCatagories prod;
+
+
+<h1>Home Page</h1>
+
+@*  Transferring data from Controller to the Views.
+    Making use of ViewBag
+*@
+<p>There are @ViewBag.num_products items in the store.</p>
+
+@*
+    Transferring data from class library to views directly
+*@
+@{
+    List<string> prod_list = prod.get_product_types();
+
+    foreach (string item in prod_list)
+    {
+        <p>@item</p>
+    }
+}
+
+<hr />
+
+@*
+    Transferring data from Controller to the Views.
+    Making use of strongly typed views
+*@
+<h3>Product Catagory</h3>
+@{
+    foreach (string item in Model)
+    {
+        <p>@item</p>
+    }
+}

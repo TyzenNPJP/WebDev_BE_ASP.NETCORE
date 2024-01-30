@@ -1,0 +1,16 @@
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\bin\Debug\net6.0\Products.deps.json
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\bin\Debug\net6.0\Products.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\bin\Debug\net6.0\Products.pdb
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.AssemblyInfoInputs.cache
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.AssemblyInfo.cs
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.csproj.CoreCompileInputs.cache
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.sourcelink.json
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\refint\Products.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.pdb
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\ref\Products.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\bin\Debug\net6.0\IProducts.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\bin\Debug\net6.0\IProducts.pdb
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.csproj.AssemblyReference.cache
+T:\CODE\WebDev_BE_ASP.NETCORE\Products\obj\Debug\net6.0\Products.csproj.CopyComplete

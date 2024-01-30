@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj": {}
+  },
+  "projects": {
+    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj",
+        "projectName": "IProducts",
+        "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj",
+        "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+        "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj",
+        "projectName": "Products",
+        "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj",
+        "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+        "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj": {
+                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

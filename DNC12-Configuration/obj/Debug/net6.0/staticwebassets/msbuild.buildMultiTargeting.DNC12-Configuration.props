@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC12-Configuration.props" />
+</Project>

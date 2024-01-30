@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DNC11-DependencyInjection.props" />
+</Project>

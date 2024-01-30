@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC11-DependencyInjection.props" />
+</Project>
