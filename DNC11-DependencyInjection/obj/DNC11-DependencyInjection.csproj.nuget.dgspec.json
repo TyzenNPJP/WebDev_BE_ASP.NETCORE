@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj": {
-                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj"
+              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj": {
+                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj"
               },
-              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj": {
-                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj"
+              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj": {
+                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj": {
+    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj",
-        "projectName": "IProducts",
-        "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj",
+        "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj",
+        "projectName": "DNC11-IProducts",
+        "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj",
         "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
-        "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\obj\\",
+        "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,14 +124,14 @@
         }
       }
     },
-    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj": {
+    "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj",
-        "projectName": "Products",
-        "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\Products.csproj",
+        "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj",
+        "projectName": "DNC11-Products",
+        "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj",
         "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
-        "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\Products\\obj\\",
+        "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,8 +148,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj": {
-                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\IProducts\\IProducts.csproj"
+              "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj": {
+                "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj"
               }
             }
           }

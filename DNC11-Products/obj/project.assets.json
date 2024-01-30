@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DNC11-IProducts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DNC11-IProducts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DNC11-IProducts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNC11-IProducts/1.0.0": {
+      "type": "project",
+      "path": "../DNC11-IProducts/DNC11-IProducts.csproj",
+      "msbuildProject": "../DNC11-IProducts/DNC11-IProducts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DNC11-IProducts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\intel\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj",
+      "projectName": "DNC11-Products",
+      "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\DNC11-Products.csproj",
+      "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+      "outputPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-Products\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj": {
+              "projectPath": "T:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC11-IProducts\\DNC11-IProducts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

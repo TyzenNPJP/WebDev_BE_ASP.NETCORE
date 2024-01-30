@@ -1,6 +1,6 @@
-﻿using IProducts;
+﻿using DNC11_IProducts;
 using Microsoft.AspNetCore.Mvc;
-using Products;
+using DNC11_Products;
 
 namespace DNC11_DependencyInjection.Controllers
 {

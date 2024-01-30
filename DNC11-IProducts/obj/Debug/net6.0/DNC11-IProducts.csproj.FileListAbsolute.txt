@@ -1,0 +1,12 @@
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\bin\Debug\net6.0\DNC11-IProducts.deps.json
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\bin\Debug\net6.0\DNC11-IProducts.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\bin\Debug\net6.0\DNC11-IProducts.pdb
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.AssemblyInfoInputs.cache
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.AssemblyInfo.cs
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.csproj.CoreCompileInputs.cache
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.sourcelink.json
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\refint\DNC11-IProducts.dll
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\DNC11-IProducts.pdb
+T:\CODE\WebDev_BE_ASP.NETCORE\DNC11-IProducts\obj\Debug\net6.0\ref\DNC11-IProducts.dll

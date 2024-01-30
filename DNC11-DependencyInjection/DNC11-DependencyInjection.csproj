@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IProducts\IProducts.csproj" />
-    <ProjectReference Include="..\Products\Products.csproj" />
+    <ProjectReference Include="..\DNC11-IProducts\DNC11-IProducts.csproj" />
+    <ProjectReference Include="..\DNC11-Products\DNC11-Products.csproj" />
   </ItemGroup>
 
 </Project>

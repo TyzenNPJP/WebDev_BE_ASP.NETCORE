@@ -1,5 +1,5 @@
-using IProducts;
-using Products;
+using DNC11_IProducts;
+using DNC11_Products;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
