@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pVkPqsGZXcqkBzywNsM4LJwUjHJiQSEpz6SwKEo2Kms=",
+  "Source": "DNC13-HttpClient",
+  "BasePath": "_content/DNC13-HttpClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

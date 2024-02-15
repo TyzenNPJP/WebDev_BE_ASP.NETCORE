@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DNC14-Razor1/1.0.0": {
+        "runtime": {
+          "DNC14-Razor1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNC14-Razor1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

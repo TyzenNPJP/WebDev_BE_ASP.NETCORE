@@ -1,0 +1,16 @@
+﻿@page
+@model DNC14_Razor1.Pages.AboutModel
+@{
+
+}
+
+@foreach (AboutModel abm in Model.Employees)
+{
+    <h1>@abm.Id</h1>
+    <br />
+    <h1>@abm.Name</h1>
+    <br />
+    <h1>@abm.YearsOfService</h1>
+    <br />
+}
+

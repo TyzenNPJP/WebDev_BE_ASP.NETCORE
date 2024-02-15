@@ -1,0 +1,36 @@
+﻿@page 
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<html>
+    <head>
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="syltesheet"/>
+    </head>
+    <body>
+
+    </body>
+</html>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <a asp-page="/privacy">One</a>
+
+    <br />
+    <form method="post">
+        <input type="number" class="input-group" asp-for="productIndex" />
+        <input type="submit" value="Submit">
+    </form>
+    
+    <br />
+
+    @if (Model.prod_submitted)
+    {
+        <h1>@Model.currentProduct.Id</h1>
+        <h1>@Model.currentProduct.Name</h1>
+        <h1>@Model.currentProduct.Price</h1>
+    }
+</div>
+

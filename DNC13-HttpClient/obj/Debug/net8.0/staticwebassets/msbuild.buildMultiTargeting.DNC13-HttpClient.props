@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC13-HttpClient.props" />
+</Project>
