@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DNC12-Configuration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2967f7c118465669b3efd691d65487fa66d0f32")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81cbe76664a7504caf7d03c163c10cccb03eab73")]
 [assembly: System.Reflection.AssemblyProductAttribute("DNC12-Configuration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DNC12-Configuration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

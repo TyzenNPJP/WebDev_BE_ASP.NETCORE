@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DNC13-HttpClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f5ba629c505957d025c2a404f0f1ef12f206ff4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81cbe76664a7504caf7d03c163c10cccb03eab73")]
 [assembly: System.Reflection.AssemblyProductAttribute("DNC13-HttpClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DNC13-HttpClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
