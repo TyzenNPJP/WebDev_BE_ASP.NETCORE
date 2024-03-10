@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNC1_HTTP-Request-Response.props" />
+</Project>

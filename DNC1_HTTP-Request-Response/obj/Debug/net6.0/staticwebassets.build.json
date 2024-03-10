@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BKc49kMPOOQiRfqoju6cB8z9igZkgLGCBDeLKB1wUDw=",
+  "Source": "DNC1_HTTP-Request-Response",
+  "BasePath": "_content/DNC1_HTTP-Request-Response",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

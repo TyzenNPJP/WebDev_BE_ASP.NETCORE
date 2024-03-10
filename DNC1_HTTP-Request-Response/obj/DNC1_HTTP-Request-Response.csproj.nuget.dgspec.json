@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj": {}
+    "V:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj": {}
   },
   "projects": {
-    "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj": {
+    "V:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj",
+        "projectUniqueName": "V:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj",
         "projectName": "DNC1_HTTP-Request-Response",
-        "projectPath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj",
+        "projectPath": "V:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj",
         "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
-        "outputPath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\obj\\",
+        "outputPath": "V:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -51,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.27, 6.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -59,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

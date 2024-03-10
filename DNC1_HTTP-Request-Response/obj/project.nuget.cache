@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9F9P6ECwlxRJtkFkGJCLolNAvH+T18FOjFt2ot6LyVj2x6CTaiztdCqhDE+qmlSc27A6qihNFZBahTG6MzJ6Tw==",
+  "dgSpecHash": "quNU7riREhNVuOgxw4oESOV9DUzlzsSBxZELUrXQ2csMioUKzDmmMAAv0fMY1U/52ektwltQR5zHx1D6JAcILw==",
   "success": true,
-  "projectFilePath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "V:\\CODE\\WebDev_BE_ASP.NETCORE\\DNC1_HTTP-Request-Response\\DNC1_HTTP-Request-Response.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
